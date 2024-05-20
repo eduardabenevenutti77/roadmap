@@ -39,3 +39,8 @@ simplicidade, flexibilidade, interface uniforme, desempenho e escalabilidade sã
 *ferramentas e frameworks:*
  - swagger (documentação das APIS - OpenAPI)
  - postman (testes de APIS)
+ - insominia (teste de API)
+
+*tipos de usabilidade*
+
+utilizado em aplicações webs e mobiles, integrações de sistemas, IoT e microsserviços;
