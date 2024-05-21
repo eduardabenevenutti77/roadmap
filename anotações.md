@@ -1,3 +1,5 @@
+**API**
+
 *o que é uma API:*
  - chamado e resposta de informações;
  - carrega informações;
@@ -44,3 +46,28 @@ simplicidade, flexibilidade, interface uniforme, desempenho e escalabilidade sã
 *tipos de usabilidade*
 
 utilizado em aplicações webs e mobiles, integrações de sistemas, IoT e microsserviços;
+
+**TESTE**
+
+*o que é teste de software:*
+
+- validações do código, encontro de bugs;
+- teste de segurança da aplicação;
+- usabilidade;
+- garante uma fácil manutenção;
+
+tradicional: guiada no problema, esquece os outros parametros, segue sem alteração no planejamento de teste, só existe um entrega;
+
+ágeis: análisa todos os parametros, flexível, entrega + demorada, acontece no mesmo tempo de desenvolvimento;
+
+atividades: detecta bugs, segue espificações do projeto, certifica que o código está intuitivo, dá feedback do projeto;
+
+    caixa branca: tem o código na mão, verifica componente por componente - verifica condições;
+
+    caixa preta: avalia o software sem a visibilidade do código - teste de usabilidade;
+
+**teste unitário:** testa de forma isolada;
+
+**teste de integração:** testa a interação entre duas ou mais funções;
+
+**teste end-to-end:** testa todo o percuso da aplicação;

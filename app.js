@@ -39,8 +39,8 @@ app.delete('/', async (req, res) => {
     }
     meusPedidos = meusPedidos.filter(item => item.id !== id)
     return res.status(200).json({meusPedidos});
-})
+});
 
 app.listen(port, () => {
     console.log(`Servidor rodando em http://localhost:${port}`);
-})
+});
